@@ -4,12 +4,12 @@ public class Testing2 {
     public static void main(String[] args) {
         int time = 20;
         if (time > 20) {
-            System.out.println("good morning");
+            System.out.println("today good morning");
         }else if ( time > 20){
-            System.out.println("good afternoon");
+            System.out.println("today good afternoon");
 
         }else{
-            System.out.println("good evening");
+            System.out.println("today good evening");
 
     }
 }}
